@@ -8,5 +8,10 @@ Ici, Cerberus protègera tes mots de passe
 * **Ce que l'on souhaite réaliser :**
 
 	- Générer aléatoirement des caractères qui ne prennent pas en compte les 'whitespace characters';
-	- Proposer un choix de longueur de mot de passe;
-	- Envisager l'utilisation de la cryptographie.
+	- Proposer un choix de longueur de mot de passe.
+
+* **Ce que l'on envisage :**
+
+- L'utilisation de la cryptographie;
+- Sauvegarder automatiquement les mdp;
+- S'inspirer de l'interface KeePassXC.
