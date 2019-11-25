@@ -12,6 +12,6 @@ Ici, Cerberus protègera tes mots de passe
 
 * **Ce que l'on envisage :**
 
-- L'utilisation de la cryptographie;
-- Sauvegarder automatiquement les mdp;
-- S'inspirer de l'interface KeePassXC.
+	- L'utilisation de la cryptographie;
+	- Sauvegarder automatiquement les mdp;
+	- S'inspirer de l'interface KeePassXC.
