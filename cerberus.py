@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from random import *
 from string import *
@@ -23,5 +23,4 @@ while compteur < taille:
 print("\nVotre mdp est :",mdp,"\n")
 
 with open ("liste_mdp", "a") as liste_mdp:
-	liste_mdp.write(url + "\n" + identifiant + "\n" + mdp)
-#separer par des virgules et ajouter csv
+	liste_mdp.write(url + " , " + identifiant + " , " + mdp + "\n")
