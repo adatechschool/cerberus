@@ -2,7 +2,7 @@
 
 from random import *
 from string import *
-from csv import *
+#from csv import *
 
 url = input("Entrez le nom/url : ")
 identifiant = input("Entrez votre identifiant : ")
